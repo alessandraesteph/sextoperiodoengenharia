@@ -11,6 +11,9 @@ import Close from "../assets/close.svg";
 import Menu from "../assets/hamburger.svg";
 import Button from '../components/Button.tsx';
 import myLogo from "../assets/logo/logoA.png";
+import Planos from "../components/Planos.tsx"
+import Contato from '../components/Contato.tsx'
+import Footer from '../components/Footer.tsx';
 import TestimonialCarousel from '../components/TestimonialCarousel.tsx'
 
 export default function Home() {
@@ -138,7 +141,9 @@ export default function Home() {
                     <TestimonialCarousel />
                 </div>
             </section>
-
+            <Planos />
+            <Contato />
+            <Footer />
         </>
     )
 }
