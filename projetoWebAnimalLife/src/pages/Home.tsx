@@ -127,7 +127,7 @@ export default function Home() {
                         Sob medida para você
                     </h2>
                     <p>
-                        Inovação é com a gente! O  já conquistou diversos clientes, seja você mais um deles,
+                        Inovação é com a gente! O AnimallIfe já conquistou diversos clientes, seja você mais um deles,
                         veja tudo que pode ganhar com o AnimalLife.
                     </p>
                 </div>
@@ -137,7 +137,6 @@ export default function Home() {
                 <div className="container content">
                     <p className="desktop-only">Conselho de quem conheçe</p>
                     <h2>Cada cliente importa</h2>
-                    <p>Inovação é com a gente! O  já conquistou diversos clientes, seja você mais um deles.</p>
                     <TestimonialCarousel />
                 </div>
             </section>
